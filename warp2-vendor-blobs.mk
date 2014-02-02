@@ -54,6 +54,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/warp2/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/zte/warp2/proprietary/lib/libqdp.so:system/lib/libqdp.so \
     vendor/zte/warp2/proprietary/lib/libuim.so:system/lib/libuim.so \
+    vendor/zte/warp2/proprietary/lib/libdl.so:system/lib/libdl.so \
     vendor/zte/warp2/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/zte/warp2/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
     vendor/zte/warp2/proprietary/lib/librpc.so:system/lib/librpc.so \
